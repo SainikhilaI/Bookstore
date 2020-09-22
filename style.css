@@ -9,5 +9,8 @@
 --gugi:"Gugi",cursive;
 --sofia:"Sofia",cursive;
 }
+.primary-color{
+color:var(--primary-color);
+}
 
 
